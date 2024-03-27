@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase_Database</string>
+    <string name="enter_text_1">Enter text 1</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="submit">Submit</string>
+    <string name="Enter_Name">Enter Name</string>
+    <string name="Enter_email">Enter Email</string>
+    <string name="Enter_Email">Email</string>
+    <string name="username">Username</string>
+    <string name="logout">logout</string>
+</resources>

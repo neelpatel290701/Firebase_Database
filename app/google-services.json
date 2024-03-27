@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825886314064",
+    "firebase_url": "https://zendatabase-dfa16-default-rtdb.firebaseio.com",
+    "project_id": "zendatabase-dfa16",
+    "storage_bucket": "zendatabase-dfa16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825886314064:android:58eeaa2ffb0f58840e0b55",
+        "android_client_info": {
+          "package_name": "com.example.firebase_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825886314064-mgb057t97s7daj1sl5n34bo679khrtl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_database",
+            "certificate_hash": "c4d74c88cc26727815737f8f46c27c582bb74a85"
+          }
+        },
+        {
+          "client_id": "825886314064-b8uo6eh6ssktdp7q5fr32afvpi6dtf91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUjlsYiMTF9JsYSUZPnJxCtpPRIl6VcaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825886314064-b8uo6eh6ssktdp7q5fr32afvpi6dtf91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
